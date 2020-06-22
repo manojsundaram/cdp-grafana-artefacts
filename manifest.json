@@ -1,0 +1,15 @@
+{
+    "parcels": [
+        {
+            "hash": "fd85cd0ca5a7897e31e5f2c3feeb43bf6e89973c",
+            "parcelName": "CDP_GRAFANA-7.0.3-1.cdp7.1.x.p0.8-el7.parcel",
+            "components": [
+                {
+                    "version": "7.0.3+cdp7.1.x+0",
+                    "name": "grafana"
+                }
+            ]
+        }
+    ],
+    "lastUpdated": 1591859515382
+}
